@@ -1,4 +1,4 @@
-function [a,y]=anomaly(x,f)
+function [a,y]=anomaly(x,f);
 % ANOMALY       constructs a series of anomalies from a timeseries array
 %
 % [a,y] = anomaly(x,f)
