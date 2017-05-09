@@ -1,9 +1,11 @@
 # Mode function decomposition method for MATLAB
 
-Kang Xu  (xukang@scsio.ac.cn)
+Kang Xu  (xukang0527@hotmail.com)
+
 State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Science, Guangzhou, China
 
 RuiXin Huang
+
 Woods Hole Oceanographic Institute, Woods Hole, Massachusetts, USA
 
 
