@@ -10,5 +10,5 @@ RuiXin Huang,
 Woods Hole Oceanographic Institute, Woods Hole, Massachusetts, USA
 
 # Reference: 
-Xu, K., R.-X. Huang, W. Wang, C. Zhu, and R. Lu (2017), Thermocline fluctuations in the equatorial Pacific related to the two types of El El Niño events, submitted to J. Clmite, minor revision.
+Xu, K., R.-X. Huang, W. Wang, C. Zhu, and R. Lu (2017), Thermocline fluctuations in the equatorial Pacific related to the two types of El El Niño events, J. Clmite, doi:10.1175/JCLI-D-16-0291.1.
 
